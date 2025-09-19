@@ -1,1 +1,2 @@
 # ProjectAmol
+https://vercel.com/new/amol007689s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=nextjs-e4rp2b15k-amol007689s-projects.vercel.app&projectName=nextjs&s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fnextjs&gitOrgLimit=&hasTrialAvailable=&totalProjects=&cloned-from=vercel%2Fvercel%2Fexamples%2Fnextjs&flow-id=Jpc9Ed8CyZ1ixpwvZX6Ki
